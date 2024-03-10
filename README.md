@@ -1,12 +1,6 @@
 # MAGGIE
-
 In order to systematically study the potential risks when users use multiple apps simultaneously, we proposed a semi-automatic system, called *MAGGIE*, to check whether the **authentication strength** of a given app can be weakened by other apps.
-
-For more details, check out our [paper]([https://www.ndss-symposium.org](https://www.ndss-symposium.org/)).
-
-## Published Work
-
-Our work is accepted in NDSS 2024 and will occur with the paper accepted in XXX cycle.
+Our work is accepted in NDSS 2024. 
 
 ## Repo Structure
 
